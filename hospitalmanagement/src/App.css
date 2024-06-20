@@ -1,0 +1,21 @@
+body {
+    overflow-y: hidden;
+    background-color:  #494F55;
+}
+
+.shade {
+    border-color: mediumaquamarine;
+}
+
+.navigate-border {
+    border: solid 2px chartreuse;
+    border-top-style: none;
+    border-left-style: none;
+}
+
+.main-navigate-border {
+    border: solid 2px chartreuse;
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
